@@ -4,7 +4,7 @@ import Box from '@mui/material/Box';
 export default function Types() {
   return (
     <Box sx={{ width: '100%', maxWidth: 500 }}>
-      
+      Pendiente
     </Box>
   );
 }
